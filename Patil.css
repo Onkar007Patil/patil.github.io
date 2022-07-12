@@ -1,0 +1,208 @@
+#bod
+{
+background-color: #F1EBF1;
+color: black;
+}
+#content
+{
+background-color: #CAD6D6;
+height:160px;
+display: block;
+text-align: center;
+font-style: italic;
+width: 100%;
+margin-top: 50px;
+}
+#foot {
+position:absolute;
+bottom: 0px;
+width:100%;
+height:40px;
+background: #343a40;
+color: lightgrey;
+}
+#write
+{
+text-align: center;
+font-size: 15px;
+font-style: italic;
+margin-top: 8px;
+}
+#fir
+{
+background-color: #F1EBF1;
+height: 50px;
+width: 100%;
+}
+#last
+{
+text-align: center;
+font-style: italic;
+font-size: 20px;
+margin-top: 20px;
+}
+#last2
+{
+  font-size: 18px;
+  font-style: italic;
+  color: grey;
+  margin-top: 20px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#socialmeadia
+{
+background-color: #343a40;;
+text-align: center;
+margin-left: 20px;
+margin-top: 6.5px;
+}
+#photo
+{
+  width: 20px;
+ margin-right: 5px;
+ height: 15px;
+ margin-top: 0px;
+ padding-top: 0px;
+}
+#home
+{
+  margin-left: 20px;
+  font-style: normal;
+}
+#hello2
+{
+width: 100%;
+position: fixed;
+top: 0px;
+}
+#project123
+{
+  margin-left: 20px;
+}
+#mail2
+{
+  margin-left: 20px;
+}
+#last
+{
+font-size: 25px;
+}
+#linkedIN
+{
+  margin-left: 20px;
+}
+#My-Blogs
+{
+  margin-left: 20px;
+  margin-right: 40px;
+}
+#myback1
+{
+  margin-left: 20px;
+
+}
+#mail2:hover
+{
+font-style: italic;
+border-right: 0.5px solid white;
+border-left: 0.5px solid white;
+padding-left: 10px;
+}
+#navbarDropdown
+{
+  margin-left: 20px;
+}
+#myback1:hover
+{
+font-style: italic;
+border-right: 0.5px solid white;
+border-left: 0.5px solid white;
+padding-left: 10px;
+padding-right: 10px;
+}
+#linkedIN:hover
+{
+padding-left: 10px;
+padding-right: 10px;
+font-style: italic;
+border-right: 0.5px solid white;
+border-left: 0.5px solid white;
+
+}
+#project123:hover{
+padding-left: 10px;
+padding-right: 10px;
+font-style: italic;
+border-right: 0.5px solid white;
+border-left: 0.5px solid white;
+}
+#My-Blogs:hover
+{
+  padding-left: 10px;
+  padding-right: 10px;
+font-style: italic;
+border-right: 0.5px solid white;
+border-left: 0.5px solid white;
+}
+#home:hover
+{
+padding-left: 10px;
+padding-right: 10px;
+font-style: italic;
+border-right: 0.5px solid white;
+border-left: 0.5px solid white;
+}
+#navbarDropdown:hover
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-style: italic;
+  border-right: 0.5px solid white;
+  border-left: 0.5px solid white;
+}
+#Instagram
+{
+  color: white;
+}
+#Snapchat
+{
+  color: white;
+}
+#Facebook
+{
+  color: white;
+}
+#Instagram:hover
+{
+font-style: italic;
+background-color: black;
+color: white;
+}
+#Snapchat:hover
+{
+font-style: italic;
+background-color: black;
+color: white;
+}
+#Facebook:hover
+{
+font-style: italic;
+background-color: black;
+color: white;
+}
+#Tit
+{
+  font-style: italic;
+}
+#brief
+{
+  text-align: center;
+  color: grey;
+  font-style: italic;
+  font-size: 16px;
+  align:center;
+  width: 62%;
+  margin-top: none;
+}
